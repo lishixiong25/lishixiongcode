@@ -1,11 +1,12 @@
 #include <stdio.h>
+
+
 int main(int argc, const char *argv[])
 {
 	
-	printf("chenbaolinlishixiong");
-
-	printf("hello chenbaolin");
 
 
+
+	;;as;das;d;as;da;sd;;
 	return 0;
 }
